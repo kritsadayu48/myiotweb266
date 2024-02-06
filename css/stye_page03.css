@@ -1,0 +1,26 @@
+#NNN {
+    text-align: center;
+    color: rgba(34, 0, 255, 0.752);
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+#LL {
+    text-align: center;
+    color: burlywood;
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+h1 {
+    text-align: center;
+    color: green;
+    text-decoration: underline;
+    font-size: 30px;
+}
+img{
+    width: 100px;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+}
